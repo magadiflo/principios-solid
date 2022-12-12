@@ -18,18 +18,4 @@ public class AreaCalculator {
         return sum;
     }
 
-    // Violando el principio: Single Responsibility
-    // Estamos agregando funcionalidad que no debería corresponderle a esta clase.
-    // Para solucionar el problema, creamos una clase que
-    // únicamente se encargue de imprimir formatos los distintos formatos (ShapesPrinter)
-    /*
-    public String json(List<Object> shapes) {
-        return "{sum: %s}".formatted(sum(shapes));
-    }
-
-    public String csv(List<Object> shapes) {
-        return "sum,%s".formatted(sum(shapes));
-    }
-    */
-
 }
