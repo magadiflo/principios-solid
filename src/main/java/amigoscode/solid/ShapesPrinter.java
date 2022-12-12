@@ -1,6 +1,5 @@
 package amigoscode.solid;
 
-// Single Responsibility: Se encargará solo de imprimir en diversos formatos
 public class ShapesPrinter {
 
     public String json(int sum) {
