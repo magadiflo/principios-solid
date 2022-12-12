@@ -24,3 +24,8 @@ Tomado del canal de youtube [amigoscode](https://www.youtube.com/watch?v=_jDNAf3
 
 - **Dependency Inversion**  
   Los componentes deben depender de abstracciones, no de concreciones.
+
+---
+
+## Principios SOLID
+Visitar la página de [enmilocalfunciona de Carlos Macías Martín](https://www.enmilocalfunciona.io/principios-solid/)
